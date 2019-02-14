@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+.pnpBudgetControl.js
 
 # testing
 /coverage
