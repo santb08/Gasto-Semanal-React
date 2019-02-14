@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gasto-semanal-react/precache-manifest.988dfac18cff41080cf19345ed5e35f2.js"
+  "/Gasto-Semanal-React/precache-manifest.01fcfc23c13eb7ebc6448a6e45606471.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gasto-semanal-react/index.html", {
+workbox.routing.registerNavigationRoute("/Gasto-Semanal-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

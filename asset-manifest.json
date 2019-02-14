@@ -1,13 +1,13 @@
 {
-  "main.css": "/gasto-semanal-react/static/css/main.b0b0986e.chunk.css",
-  "main.js": "/gasto-semanal-react/static/js/main.2c0e3cd2.chunk.js",
-  "main.js.map": "/gasto-semanal-react/static/js/main.2c0e3cd2.chunk.js.map",
-  "static/js/1.5cb9b55e.chunk.js": "/gasto-semanal-react/static/js/1.5cb9b55e.chunk.js",
-  "static/js/1.5cb9b55e.chunk.js.map": "/gasto-semanal-react/static/js/1.5cb9b55e.chunk.js.map",
-  "runtime~main.js": "/gasto-semanal-react/static/js/runtime~main.764ec136.js",
-  "runtime~main.js.map": "/gasto-semanal-react/static/js/runtime~main.764ec136.js.map",
-  "static/css/main.b0b0986e.chunk.css.map": "/gasto-semanal-react/static/css/main.b0b0986e.chunk.css.map",
-  "index.html": "/gasto-semanal-react/index.html",
-  "precache-manifest.988dfac18cff41080cf19345ed5e35f2.js": "/gasto-semanal-react/precache-manifest.988dfac18cff41080cf19345ed5e35f2.js",
-  "service-worker.js": "/gasto-semanal-react/service-worker.js"
+  "main.css": "/Gasto-Semanal-React/static/css/main.b0b0986e.chunk.css",
+  "main.js": "/Gasto-Semanal-React/static/js/main.c5706faf.chunk.js",
+  "main.js.map": "/Gasto-Semanal-React/static/js/main.c5706faf.chunk.js.map",
+  "static/js/1.5cb9b55e.chunk.js": "/Gasto-Semanal-React/static/js/1.5cb9b55e.chunk.js",
+  "static/js/1.5cb9b55e.chunk.js.map": "/Gasto-Semanal-React/static/js/1.5cb9b55e.chunk.js.map",
+  "runtime~main.js": "/Gasto-Semanal-React/static/js/runtime~main.40f171c0.js",
+  "runtime~main.js.map": "/Gasto-Semanal-React/static/js/runtime~main.40f171c0.js.map",
+  "static/css/main.b0b0986e.chunk.css.map": "/Gasto-Semanal-React/static/css/main.b0b0986e.chunk.css.map",
+  "index.html": "/Gasto-Semanal-React/index.html",
+  "precache-manifest.01fcfc23c13eb7ebc6448a6e45606471.js": "/Gasto-Semanal-React/precache-manifest.01fcfc23c13eb7ebc6448a6e45606471.js",
+  "service-worker.js": "/Gasto-Semanal-React/service-worker.js"
 }
